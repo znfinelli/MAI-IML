@@ -1,6 +1,6 @@
 **K-IBL and SVM Performance Analysis Project**
 
-Zoë Finelli, Onat Bitirgen, Emre Karaoglu, Noel Torres Carretero
+Authors: Zoë Finelli, Onat Bitirgen, Emre Karaoglu, Noel Torres Carretero
 
 
 **Introduction:**
