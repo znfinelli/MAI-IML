@@ -1,0 +1,2 @@
+K,Dataset,Distance,Voting,Retention,Reduction,Mean_Accuracy,Std_Accuracy,Mean_Time_ms,Std_Time_ms,Mean_Storage_pct,Std_Storage_pct
+5,pen-based,Euclidean,BordaCount,NR,ENN,0.9931782464877961,0.001875594857998681,45.24659217574799,0.33967638577404974,99.31162312825705,0.03790539189509207

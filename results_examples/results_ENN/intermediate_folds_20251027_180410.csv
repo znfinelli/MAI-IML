@@ -1,0 +1,3 @@
+K,Dataset,Distance,Voting,Retention,Fold,Accuracy,Time_per_instance_ms,Reduction,Storage_percent,Train_size,Test_size,Instance_base_final_size
+5,pen-based,Euclidean,BordaCount,NR,0,0.9963570127504554,44.56192917293973,ENN,99.30260764099454,9894,1098,9825
+5,pen-based,Euclidean,BordaCount,NR,1,0.9936305732484076,45.07552525257392,ENN,99.32275346204386,9893,1099,9826
